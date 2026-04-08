@@ -1,2 +1,3 @@
-# web-frontend
-React web application
+# Web Frontend
+
+TechCorp web frontend application.
